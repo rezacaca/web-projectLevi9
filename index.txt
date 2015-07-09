@@ -1,3 +1,4 @@
 tralala
 promena drugi put
 merge promena 2
+push promena
